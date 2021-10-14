@@ -15,3 +15,5 @@
     - ACL (table, column, tuple)
 - workflow management.
 - data processing solutions.
+    - metadata management
+    - distributed parellel processing
