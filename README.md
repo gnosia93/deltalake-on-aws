@@ -13,7 +13,7 @@
 - data security.
     - redaction
     - ACL (table, column, tuple)
-- workflow management.
+- data pipeline management.
 - data processing solutions.
     - metadata management
     - distributed parellel processing
