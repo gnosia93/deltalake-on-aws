@@ -15,6 +15,7 @@
     - redaction
     - ACL (table, column, tuple)
 - data pipeline management.
-- data processing solutions.
+- data processing for datalake
     - metadata management
     - distributed parellel processing
+    - blonze / gold area..
