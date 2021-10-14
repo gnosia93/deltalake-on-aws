@@ -5,6 +5,7 @@
 - migration and data ingestions.
     - ETL
     - CDC
+    - S3 Put
 - analytic query comparison and transformation.
 - Schema and DML management.
 - performance consideration.
