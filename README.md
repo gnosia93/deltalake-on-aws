@@ -1,4 +1,7 @@
 # Lakehouse on EMRFS
+
+* https://www.youtube.com/watch?v=_ckNyL_Nr1A - AWS re:Invent 2019: Insert, upsert, and delete data in Amazon S3 using Amazon EMR (ANT239)
+
 * https://www.youtube.com/watch?v=TVcreqxBaGA - Query Apache Hudi Datasets using Amazon Athena
 * https://deepinsight.tistory.com/180
 * https://aws.amazon.com/ko/big-data/datalakes-and-analytics/data-lake-house/?nc=sn&loc=11
