@@ -1,5 +1,5 @@
 # Lakehouse on EMRFS
-
+* https://www.youtube.com/watch?v=TVcreqxBaGA - Query Apache Hudi Datasets using Amazon Athena
 * https://deepinsight.tistory.com/180
 * https://aws.amazon.com/ko/big-data/datalakes-and-analytics/data-lake-house/?nc=sn&loc=11
 * https://news.knowledia.com/US/en/articles/reshape-data-lake-delta-iceberg-hudi-or-hive-f9bf351e426d53ef1bce96cedaeabd71ac366c01
