@@ -8,9 +8,14 @@
 * https://news.knowledia.com/US/en/articles/reshape-data-lake-delta-iceberg-hudi-or-hive-f9bf351e426d53ef1bce96cedaeabd71ac366c01
 
 - migration and data ingestions.
-    - ETL
+    - EAI (streaming)
+      app -> kafka -> spark -> S3
     - CDC
+      postgres -> S3 -> spark -> S3
     - S3 Put
+    - ETL   
+      
+      
 - analytic query comparison and transformation.
 - Schema and DML management.
 - performance consideration.
