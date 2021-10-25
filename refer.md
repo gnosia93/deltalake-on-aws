@@ -16,3 +16,7 @@
 * Incremental Data Processing using Delta Lake with EMR
 
   https://www.youtube.com/watch?v=l1lDAh2bKsU
+
+* kafka connect
+
+  https://sup2is.github.io/2020/06/08/kafka-connect-example.html
