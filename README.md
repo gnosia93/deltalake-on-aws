@@ -1,4 +1,4 @@
-# Incremental Datalake on AWS
+# Deltalake on AWS
 
 * https://www.youtube.com/watch?v=_ckNyL_Nr1A - AWS re:Invent 2019: Insert, upsert, and delete data in Amazon S3 using Amazon EMR (ANT239)
 
