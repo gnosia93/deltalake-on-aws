@@ -1,5 +1,5 @@
 # Deltalake on AWS
-
+* https://www.youtube.com/watch?v=LJtShrQqYZY - Delta Lake로 Apache Spark ™ 개선
 * https://www.youtube.com/watch?v=_ckNyL_Nr1A - AWS re:Invent 2019: Insert, upsert, and delete data in Amazon S3 using Amazon EMR (ANT239)
 
 * https://www.youtube.com/watch?v=TVcreqxBaGA - Query Apache Hudi Datasets using Amazon Athena
